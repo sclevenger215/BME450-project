@@ -10,6 +10,7 @@ We are going to use the "Brain tumor MRI Dataset" (https://www.kaggle.com/datase
 - Pituitary tumor
 - Meningioma
 - Glioma
+
 This will allow doctors to both know that a tumor exists, and know what part of the brain the tumor is in. This is important because tumors in different areas of the brain can have different risks and symptoms. For example, meningiomas grow slowly and may not need immeadiate treatment, while gliomas can be cancerous and quickly destroy healthy brain tissue. Therefore it is important to be able to quickly classify different types of tumors to better inform the provider of what the future treatment should be.
 
 Sources detailing the different types of tumors:
