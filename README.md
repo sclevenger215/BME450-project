@@ -17,5 +17,3 @@ Sources detailing the different types of tumors:
 - https://www.mayoclinic.org/diseases-conditions/pituitary-tumors/symptoms-causes/syc-20350548
 - https://www.mayoclinic.org/diseases-conditions/meningioma/symptoms-causes/syc-20355643#Overview
 - https://www.mayoclinic.org/diseases-conditions/glioma/symptoms-causes/syc-20350251
-
-
