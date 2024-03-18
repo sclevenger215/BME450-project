@@ -2,7 +2,7 @@
 “Detecting different types of tumors in MRI scans”
 
 ## Team members
-Katrielle Rodgers (katrielle12), Sarah Clevenger (sclevenger215), Kaniese Mack (USERNAME)
+Katrielle Rodgers (katrielle12), Sarah Clevenger (sclevenger215), Kaniese Mack (mack57)
 
 ## Project decription
 We are going to use the "Brain tumor MRI Dataset" (https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset). We will be classifying different MRI images as containing one of the following:
